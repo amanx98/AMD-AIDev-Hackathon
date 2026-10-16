@@ -1,0 +1,12 @@
+Vendor: Acme Components
+Invoice Number: INV-1002
+PO Number: PO-5002
+Invoice Date: 2026-10-12
+Currency: USD
+Bank Details: IBAN GB33 BUKB 2020 1555 5555 55
+Line Items:
+- Aluminium Plate 2mm @ 3.50 x 100
+- Aluminium Bar 10mm @ 4.00 x 50
+Subtotal: 550.00
+Tax: 110.00
+Total: 660.00

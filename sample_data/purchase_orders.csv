@@ -1,0 +1,5 @@
+po_number,vendor,currency,sku,description,unit_price,quantity
+PO-5001,Northwind Traders,USD,SKU-M8-BOLT,Bolt M8 x 100,0.50,200
+PO-5001,Northwind Traders,USD,SKU-M8-WASH,Washer M8,0.10,500
+PO-5002,Acme Components,USD,SKU-AL-PLATE,Aluminium Plate 2mm,3.20,100
+PO-5002,Acme Components,USD,SKU-AL-BAR,Aluminium Bar 10mm,4.00,50

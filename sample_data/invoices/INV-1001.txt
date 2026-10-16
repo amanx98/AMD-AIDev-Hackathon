@@ -1,0 +1,12 @@
+Vendor: Northwind Traders
+Invoice Number: INV-1001
+PO Number: PO-5001
+Invoice Date: 2026-10-10
+Currency: USD
+Bank Details: IBAN DE89 3704 0044 0532 0130 00
+Line Items:
+- Bolt M8 x 100 @ 0.50 x 200
+- Washer M8 @ 0.10 x 500
+Subtotal: 150.00
+Tax: 30.00
+Total: 180.00
